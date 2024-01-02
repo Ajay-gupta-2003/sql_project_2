@@ -1,5 +1,12 @@
-The aim of this project is to create an inventory system. We have 4 tables namely: products, purchases, suppliers and orders
+ Sql_Inventory_System
+📀Inventory System SQL Project Welcome to the Inventory System SQL Project! The primary goal is to create an efficient inventory system using SQL, and various functionalities have been implemented to achieve this.
 
-In this SQL Project I have used various functionalities such as: joins inbuilt functions aggregate functions case statement group by filtering using where and having limit constraints: primary key, foreign key
 
-I have created and manually inserted data into the tables. This project was done as a part of my bootcamp Master in Data Science Certification from IBM.# sql_project_2
+Implemented Functionalities
+Joins: Utilized joins to combine information from multiple tables for comprehensive queries.
+Aggregate Functions: Utilized aggregate functions for summarizing and calculating values across rows.
+Group By: Used the GROUP BY clause to group rows based on specified columns.
+Filtering with WHERE: Applied WHERE clause to filter rows based on specified conditions.
+Filtering with HAVING: Employed HAVING clause to filter group results based on conditions.
+Limit Constraints: Limited the number of rows returned in the result set using the LIMIT clause.
+Constraints (Primary Key, Foreign Key): Ensured data integrity through primary key and foreign key constraints.
